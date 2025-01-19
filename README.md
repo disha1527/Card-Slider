@@ -1,7 +1,7 @@
  Create a Cool Responsive Card Slider using HTML, CSS, and JavaScript. This project will feature a slider that showcases multiple cards,
  offering a seamless and interactive experience across all screen sizes.
 
-<h1>HTML</h1>
+<h1>HTML</h1> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 This HTML sets up a Swiper slider displaying cards with images, badges, titles, and buttons.
 It includes pagination, navigation buttons, and links external styles and scripts for functionality and design.
 
