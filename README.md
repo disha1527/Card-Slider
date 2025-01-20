@@ -14,6 +14,14 @@ This code initializes a Swiper slider on elements with the class .card-wrapper.
 It enables looping, sets space between slides to 30px, adds clickable pagination bullets, navigation arrows,
 and adjusts the number of visible slides based on screen width (1 for small, 2 for medium, and 3 for large screens).
 
+![screencapture-127-0-0-1-5500-index-html-2025-01-19-16_28_33](https://github.com/user-attachments/assets/870f66a5-de72-42b8-8696-0043cf5323b4)
+
+
+
+
+
+
+
 
 
 
